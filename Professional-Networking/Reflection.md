@@ -1,61 +1,57 @@
 # Professional Networking - Reflection (STAR Technique)
 
-## 1. Team Collaboration
+## 1. Team Collaboration (Ongoing)
 
 **Situation:**  
-During the WIL project, I worked closely with team members on developing the Nursing System Portal website.  
+During the current WIL project, I am working with team members to develop the Nursing System Portal website.  
 
 **Task:**  
-Collaborate effectively, share progress updates, and communicate professionally to ensure smooth project completion.  
+Collaborate effectively, communicate progress, and support teammates as tasks are being completed.  
 
 **Action:**  
-- Participated in team meetings and discussions.  
-- Provided updates on my tasks through Trello and messages.  
-- Assisted teammates when they faced technical challenges.  
+- Participate actively in team meetings and online discussions.  
+- Update Trello regularly with task progress and comments.  
+- Assist teammates when they face challenges or need guidance.  
 
 **Result:**  
-- Maintained positive working relationships and effective communication.  
-- Improved project workflow and contributed to timely completion.  
-- Strengthened teamwork and networking skills.
+- Maintaining good professional relationships and communication with the team.  
+- Contributing to ongoing project progress and collaboration.  
 
 ---
 
-## 2. Supervisor Feedback
+## 2. Supervisor Feedback (Ongoing)
 
 **Situation:**  
-The supervisor provided feedback on work quality and professional conduct throughout the project.  
+Receiving continuous feedback from the supervisor as the WIL project progresses.  
 
 **Task:**  
-Respond to feedback professionally and apply suggestions to improve project outcomes.  
+Engage with feedback professionally and make improvements in real-time.  
 
 **Action:**  
-- Reviewed supervisor feedback carefully.  
-- Implemented recommended changes in code and project documentation.  
-- Communicated follow-ups and clarifications when needed.  
+- Review and implement supervisor suggestions promptly.  
+- Communicate clarifications and updates when needed.  
 
 **Result:**  
-- Improved quality of project deliverables.  
-- Developed professional responsiveness to feedback.  
-- Enhanced understanding of workplace expectations and networking skills.
+- Immediate improvement in work quality.  
+- Developing professional responsiveness and engagement skills.  
 
 ---
 
-## 3. Knowledge Sharing
+## 3. Knowledge Sharing (Ongoing)
 
 **Situation:**  
-Team members sometimes needed guidance on specific technical tasks during the project.  
+During current tasks, team members occasionally need assistance understanding technical aspects.  
 
 **Task:**  
-Help teammates understand coding practices, database integration, and workflow processes.  
+Support teammates by explaining processes and sharing knowledge.  
 
 **Action:**  
-- Shared step-by-step explanations and examples during discussions.  
-- Provided advice and resources for problem-solving.  
+- Provide step-by-step explanations and examples.  
+- Share resources to help teammates complete tasks efficiently.  
 
 **Result:**  
-- Team members could complete tasks more efficiently.  
-- Built a collaborative and supportive professional network within the team.  
+- Building a supportive team environment.  
+- Strengthening professional networking skills as the project continues.  
 
 **Learning Outcome:**  
-Through these interactions, I developed strong professional networking skills, including collaboration, communication, and responsiveness to feedback. These skills are essential for career development and workplace readiness.
-
+Even though the WIL project is still in progress, I am developing strong professional networking skills through collaboration, communication, feedback engagement, and knowledge sharing. These ongoing activities are preparing me for future workplace interactions and career growth.
