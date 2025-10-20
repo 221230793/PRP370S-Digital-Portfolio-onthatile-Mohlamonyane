@@ -1,4 +1,4 @@
-# 🎓 Digital Portfolio – Project Presentation 3 (PRP370-1-2S)
+#  Digital Portfolio – Project Presentation 3 (PRP370-1-2S)
 
 Name: Abram Onthatile Mohlamonyane  
 Student Number: 221230793  
@@ -7,9 +7,9 @@ Lecturer: P. Inderlal
 Assessment Period:18 November 2025  
 
 
- Introduction
+ ## Introduction
 
-Hello! My name is Abram Onthatile Mohlamonyane, and I am a **Diploma in Information and Communication Technology Application Development student at the Cape Peninsula University of Technology.  
+Hello! My name is Abram Onthatile Mohlamonyane, and I am a Diploma in Information and Communication Technology Application Development student at the Cape Peninsula University of Technology.  
 This digital portfolio was created as part of my Project Presentation 3 (PRP370-1-2S) assessment to demonstrate my work readiness and professional growth.  
 
 It showcases my ability to communicate effectively, prepare for interviews, engage in professional networking, and maintain proper workplace etiquette.  
@@ -19,7 +19,7 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 
 ---
 
-#Portfolio Sections
+## Portfolio Sections
 
 1. [Business Communication](./business-communication/)
 - Evidence: Email samples, reports, and presentations  
@@ -43,15 +43,12 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 
 ---
 
-## 🌐 GitHub Pages Link
-🔗 View my portfolio online:  
-[https://yourusername.github.io/digital-portfolio](https://yourusername.github.io/digital-portfolio)
+## GitHub Pages Link
+View my portfolio online:  
+[https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane.git](https://yourusername.github.io/digital-portfolio)
 
 ---
 
-## 📜 References
-All resources and materials used in this portfolio are properly referenced according to the **Harvard Referencing Style**.
 
----
 
-**© [Your Name], 2025 – Cape Peninsula University of Technology**
+**© Onthatile, 2025 – Cape Peninsula University of Technology**
