@@ -22,7 +22,7 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 ## Portfolio Sections
 
 1. [Business Communication](./business-communication/)
-- Evidence: Email samples, reports, and presentations  
+- Evidence: reports, and presentations  
 - Reflection: Applying effective communication techniques in professional settings  
 
 2. [Interview Skills](./interview-skills/)
