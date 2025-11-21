@@ -30,13 +30,13 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 
 
 
-Situation:
+**Situation:**
 During our WIL project, our team was required to present the Nursing System Portal website to our supervisor. The goal was to demonstrate the project’s features, workflow, and progress.
 
-Task:
+**Task:**
 My task was to contribute to the presentation by clearly explaining assigned sections of the website and communicating technical information in a professional and understandable manner.
 
-Action:
+**Action:**
 
 Prepared slides highlighting the features of the Nursing System Portal website.
 Practiced delivering my section of the presentation to ensure clarity and confidence.
