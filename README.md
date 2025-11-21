@@ -21,7 +21,7 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 
 ## Portfolio Sections
 
-1. [Business Communication](https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane/blob/main/business-communication)
+1. [Business Communication](https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane/tree/main/business_communication)
 - Evidence: reports, and presentations  
 - Reflection: Applying effective communication techniques in professional settings  
 
@@ -29,15 +29,15 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 - Evidence: Practice questions, preparation notes, and feedback  
 - Reflection: Learning to present myself confidently during interviews  
 
-3. [Mock Interview]
+3. [Mock Interview](https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane/tree/main/Mock-Interview)
 - Evidence: Mock interview recording and notes  
 - Reflection: Identifying areas of strength and improvement  
 
-4. [Professional Networking]
+4. [Professional Networking](https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane/tree/main/Professional-Networking)
 - Evidence: LinkedIn profile, event participation, and certificates  
 - Reflection: Building meaningful connections in the professional environment  
 
-5. [Workplace Etiquette]
+5. [Workplace Etiquette](https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane/tree/main/Workplace-Etiquette)
 - Evidence: Training certificates and teamwork examples  
 - Reflection: Demonstrating professionalism and respect in the workplace  
 
