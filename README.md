@@ -24,6 +24,8 @@ Through this portfolio, I aim to highlight the skills, values, and experiences t
 1. [Business Communication](https://github.com/221230793/PRP370S-Digital-Portfolio-onthatile-Mohlamonyane/tree/main/business_communication)
 
    <img width="1100" height="795" alt="Screenshot from 2025-11-21 15-46-04" src="https://github.com/user-attachments/assets/bf10886a-cd00-4697-8e8c-10fc0d497e3d" />
+   <img width="1100" height="795" alt="Screenshot from 2025-11-21 15-50-12" src="https://github.com/user-attachments/assets/4870c1f0-87cf-4be9-899a-76f1a7bd48d6" />
+
 
 - Evidence: reports, and presentations  
 - Reflection: Applying effective communication techniques in professional settings  
